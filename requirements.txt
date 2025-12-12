@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+langchain
+langchain-community
+langchain-experimental
+ollama
+tabulate

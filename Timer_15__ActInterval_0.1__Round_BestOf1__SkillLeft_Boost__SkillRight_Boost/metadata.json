@@ -1,0 +1,34 @@
+{
+  "BattleID": "",
+  "CreatedAt": 1759228717,
+  "BattleTime": 15.0,
+  "CountdownTime": 1.0,
+  "ActionInterval": 0.0,
+  "RoundType": 1,
+  "SimulationAmount": 50,
+  "SimulationAISwapInterval": 0,
+  "SimulationTimeScale": 20.0,
+  "ArenaCenter": {},
+  "ArenaRadius": 0.0,
+  "LeftPlayerStats": {
+    "Name": null,
+    "InputType": null,
+    "SkillType": null,
+    "Bot": null,
+    "WinPerGame": 0,
+    "WinPerRound": 0,
+    "ActionTaken": 0,
+    "ContactMade": 0
+  },
+  "RightPlayerStats": {
+    "Name": null,
+    "InputType": null,
+    "SkillType": null,
+    "Bot": null,
+    "WinPerGame": 0,
+    "WinPerRound": 0,
+    "ActionTaken": 0,
+    "ContactMade": 0
+  },
+  "Events": []
+}

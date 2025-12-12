@@ -1,0 +1,6488 @@
+{
+  "Index": 8,
+  "Timestamp": "20250925_111601",
+  "Winner": "Right",
+  "Rounds": [
+    {
+      "Index": 1,
+      "Timestamp": "20250925_111601",
+      "Winner": "Right",
+      "Duration": 8.773549,
+      "PlayerEvents": [
+        {
+          "StartedAt": 0.03228203,
+          "UpdatedAt": 0.03228203,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": -3.30086637,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 3.69913363,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.03228203,
+          "UpdatedAt": 0.03228203,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": -3.30086637,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 3.69913363,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.03228203,
+          "UpdatedAt": 0.03228203,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.834212,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 3.69913363,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": -3.30086637,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.133521959,
+          "UpdatedAt": 0.133521959,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -2.90086675,
+                "Y": 2.01016259
+              },
+              "Rotation": 290.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 3.299134,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.133521959,
+          "UpdatedAt": 0.133521959,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.8212454,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 3.299134,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -2.90086675,
+                "Y": 2.01016259
+              },
+              "Rotation": 290.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.235212013,
+          "UpdatedAt": 0.235212013,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 2.93561625,
+              "Position": {
+                "X": -2.48735976,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.81913447,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.235212013,
+          "UpdatedAt": 0.235212013,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.8062607,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.81913447,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 2.93561625,
+              "Position": {
+                "X": -2.48735976,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.338039845,
+          "UpdatedAt": 0.338039845,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.7914054,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.41913486,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -2.08736014,
+                "Y": 2.01016259
+              },
+              "Rotation": 290.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.438493878,
+          "UpdatedAt": 0.438493878,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 3.12299585,
+              "Position": {
+                "X": -1.73256564,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.01913524,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.438493878,
+          "UpdatedAt": 0.438493878,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.7762469,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.01913524,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 3.12299585,
+              "Position": {
+                "X": -1.73256564,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.5387558,
+          "UpdatedAt": 0.5387558,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.7610075,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 1.61913562,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -1.332566,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.640044,
+          "UpdatedAt": 0.640044,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 3.12299585,
+              "Position": {
+                "X": -0.9777716,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 1.219136,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.640044,
+          "UpdatedAt": 0.640044,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.745703161,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 1.219136,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 3.12299585,
+              "Position": {
+                "X": -0.9777716,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.7402338,
+          "UpdatedAt": 0.7402338,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.730029166,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.8191362,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -0.577771664,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.7402338,
+          "UpdatedAt": 0.79348,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0532462,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.730029166,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.06202458E-06,
+              "LinearVelocity": 0.2328,
+              "Position": {
+                "X": 0.6108139,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.06202458E-06,
+              "LinearVelocity": 0.2328,
+              "Position": {
+                "X": -0.3835613,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 0.79348,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.79348,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 4.0,
+            "IsTieBreaker": true,
+            "LockDuration": 0.8,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 1.06202458E-06,
+              "LinearVelocity": 0.2328,
+              "Position": {
+                "X": 0.6108139,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.06202458E-06,
+              "LinearVelocity": 0.2328,
+              "Position": {
+                "X": -0.3835613,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 0.79348,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.79348,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 4.0,
+            "IsTieBreaker": true,
+            "LockDuration": 0.8,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 1.06202458E-06,
+              "LinearVelocity": 0.2328,
+              "Position": {
+                "X": -0.3835613,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.06202458E-06,
+              "LinearVelocity": 0.2328,
+              "Position": {
+                "X": 0.6108139,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.640044,
+          "UpdatedAt": 0.79348,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.153436,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 4.2328,
+              "Position": {
+                "X": -0.3835613,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 3.7672,
+              "Position": {
+                "X": 0.6108139,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.03228203,
+          "UpdatedAt": 0.79348,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.7611979,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 4.2328,
+              "Position": {
+                "X": -0.3835613,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 3.7672,
+              "Position": {
+                "X": 0.6108139,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.133521959,
+          "UpdatedAt": 0.79348,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.659958,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 4.2328,
+              "Position": {
+                "X": -0.3835613,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 3.7672,
+              "Position": {
+                "X": 0.6108139,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 0.79348,
+          "Actor": "Left",
+          "Target": "Right",
+          "Duration": 0.79348,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.8836,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 4.2328,
+              "Position": {
+                "X": -0.3835613,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 3.7672,
+              "Position": {
+                "X": 0.6108139,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 0.79348,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.79348,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.1164,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 3.7672,
+              "Position": {
+                "X": 0.6108139,
+                "Y": 2.01016259
+              },
+              "Rotation": 90.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 733.3857,
+              "LinearVelocity": 4.2328,
+              "Position": {
+                "X": -0.3835613,
+                "Y": 2.01016259
+              },
+              "Rotation": 270.0,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.79348,
+          "UpdatedAt": 1.74381447,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.9503345,
+          "Category": "Collision",
+          "State": 2,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.8836,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.9503345,
+            "Robot": {
+              "AngularVelocity": 36.88251,
+              "LinearVelocity": 0.33381477,
+              "Position": {
+                "X": -2.19543719,
+                "Y": 2.01016259
+              },
+              "Rotation": 189.8123,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 38.3419075,
+              "LinearVelocity": 0.321109265,
+              "Position": {
+                "X": 2.35372829,
+                "Y": 2.01016259
+              },
+              "Rotation": 20.8839417,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 1.74855649,
+          "UpdatedAt": 1.74855649,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 36.88251,
+              "LinearVelocity": 0.33381477,
+              "Position": {
+                "X": -2.19543719,
+                "Y": 2.01016259
+              },
+              "Rotation": 189.8123,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 38.3419075,
+              "LinearVelocity": 0.321109265,
+              "Position": {
+                "X": 2.35372829,
+                "Y": 2.01016259
+              },
+              "Rotation": 20.8839417,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 1.74855649,
+          "UpdatedAt": 1.74855649,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 36.88251,
+              "LinearVelocity": 0.33381477,
+              "Position": {
+                "X": -2.19543719,
+                "Y": 2.01016259
+              },
+              "Rotation": 189.8123,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 38.3419075,
+              "LinearVelocity": 0.321109265,
+              "Position": {
+                "X": 2.35372829,
+                "Y": 2.01016259
+              },
+              "Rotation": 20.8839417,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.79348,
+          "UpdatedAt": 1.84447074,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 1.05099082,
+          "Category": "Collision",
+          "State": 2,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.1164,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 1.05099082,
+            "Robot": {
+              "AngularVelocity": 26.7735615,
+              "LinearVelocity": 0.235663444,
+              "Position": {
+                "X": 2.38050127,
+                "Y": 2.01016259
+              },
+              "Rotation": 23.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 27.068224,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -2.12726855,
+                "Y": 1.61601436
+              },
+              "Rotation": 209.8123,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 1.8495208,
+          "UpdatedAt": 1.8495208,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 27.068224,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -2.12726855,
+                "Y": 1.61601436
+              },
+              "Rotation": 209.8123,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 26.7735615,
+              "LinearVelocity": 0.235663444,
+              "Position": {
+                "X": 2.38050127,
+                "Y": 2.01016259
+              },
+              "Rotation": 23.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 1.8495208,
+          "UpdatedAt": 1.8495208,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.3550311,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 26.7735615,
+              "LinearVelocity": 0.235663444,
+              "Position": {
+                "X": 2.38050127,
+                "Y": 2.01016259
+              },
+              "Rotation": 23.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 27.068224,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -2.12726855,
+                "Y": 1.61601436
+              },
+              "Rotation": 209.8123,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 1.9510287,
+          "UpdatedAt": 1.9510287,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 19.86548,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -2.066804,
+                "Y": 1.26641011
+              },
+              "Rotation": 229.812286,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 19.6492271,
+              "LinearVelocity": 0.172954381,
+              "Position": {
+                "X": 2.4001503,
+                "Y": 2.01016259
+              },
+              "Rotation": 43.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 1.9510287,
+          "UpdatedAt": 1.9510287,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 19.86548,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -2.066804,
+                "Y": 1.26641011
+              },
+              "Rotation": 229.812286,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 19.6492271,
+              "LinearVelocity": 0.172954381,
+              "Position": {
+                "X": 2.4001503,
+                "Y": 2.01016259
+              },
+              "Rotation": 43.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 1.9510287,
+          "UpdatedAt": 1.9510287,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.277311057,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 19.6492271,
+              "LinearVelocity": 0.172954381,
+              "Position": {
+                "X": 2.4001503,
+                "Y": 2.01016259
+              },
+              "Rotation": 43.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 19.86548,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -2.066804,
+                "Y": 1.26641011
+              },
+              "Rotation": 229.812286,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.05238819,
+          "UpdatedAt": 2.05238819,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 14.5793562,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -1.76123,
+                "Y": 1.00829279
+              },
+              "Rotation": 249.812317,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 14.4206505,
+              "LinearVelocity": 0.126931936,
+              "Position": {
+                "X": 2.41457057,
+                "Y": 2.01016259
+              },
+              "Rotation": 63.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.05238819,
+          "UpdatedAt": 2.05238819,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.197503388,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 14.4206505,
+              "LinearVelocity": 0.126931936,
+              "Position": {
+                "X": 2.41457057,
+                "Y": 2.01016259
+              },
+              "Rotation": 63.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 14.5793562,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -1.76123,
+                "Y": 1.00829279
+              },
+              "Rotation": 249.812317,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.15253615,
+          "UpdatedAt": 2.15253615,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 10.69985,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -1.49019015,
+                "Y": 0.7793459
+              },
+              "Rotation": 269.812317,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 10.583374,
+              "LinearVelocity": 0.09315587,
+              "Position": {
+                "X": 2.42515349,
+                "Y": 2.01016259
+              },
+              "Rotation": 83.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.15253615,
+          "UpdatedAt": 2.15253615,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 10.69985,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -1.49019015,
+                "Y": 0.7793459
+              },
+              "Rotation": 269.812317,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 10.583374,
+              "LinearVelocity": 0.09315587,
+              "Position": {
+                "X": 2.42515349,
+                "Y": 2.01016259
+              },
+              "Rotation": 83.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.15253615,
+          "UpdatedAt": 2.15253615,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.117300205,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 10.583374,
+              "LinearVelocity": 0.09315587,
+              "Position": {
+                "X": 2.42515349,
+                "Y": 2.01016259
+              },
+              "Rotation": 83.9908752,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 10.69985,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -1.49019015,
+                "Y": 0.7793459
+              },
+              "Rotation": 269.812317,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.252558,
+          "UpdatedAt": 2.252558,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.8252909,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 7.767182,
+              "LinearVelocity": 0.0683674738,
+              "Position": {
+                "X": 2.43292069,
+                "Y": 2.01016259
+              },
+              "Rotation": 103.990936,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 7.85266447,
+              "LinearVelocity": 3.99999976,
+              "Position": {
+                "X": -1.09019232,
+                "Y": 0.7780355
+              },
+              "Rotation": 289.812317,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.252558,
+          "UpdatedAt": 2.252558,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 7.767182,
+              "LinearVelocity": 0.0683674738,
+              "Position": {
+                "X": 2.43292069,
+                "Y": 2.01016259
+              },
+              "Rotation": 103.990936,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 7.85266447,
+              "LinearVelocity": 3.99999976,
+              "Position": {
+                "X": -1.09019232,
+                "Y": 0.7780355
+              },
+              "Rotation": 289.812317,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.35403538,
+          "UpdatedAt": 2.35403538,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.10335875,
+              "LinearVelocity": 2.93561625,
+              "Position": {
+                "X": -0.6766877,
+                "Y": 0.7766809
+              },
+              "Rotation": 290.5507,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.09828138,
+              "LinearVelocity": 6.99999952,
+              "Position": {
+                "X": 1.61784065,
+                "Y": 1.80707717
+              },
+              "Rotation": 108.0426,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.35403538,
+          "UpdatedAt": 2.35403538,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.09828138,
+              "LinearVelocity": 6.99999952,
+              "Position": {
+                "X": 1.61784065,
+                "Y": 1.80707717
+              },
+              "Rotation": 108.0426,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.10335875,
+              "LinearVelocity": 2.93561625,
+              "Position": {
+                "X": -0.6766877,
+                "Y": 0.7766809
+              },
+              "Rotation": 290.5507,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.464192,
+          "UpdatedAt": 2.464192,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.74164987,
+              "LinearVelocity": 6.99999952,
+              "Position": {
+                "X": 0.938607,
+                "Y": 1.63783932
+              },
+              "Rotation": 128.0426,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.74537563,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -0.302143067,
+                "Y": 0.9170951
+              },
+              "Rotation": 310.5507,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.464192,
+          "UpdatedAt": 2.464192,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.481131524,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.74164987,
+              "LinearVelocity": 6.99999952,
+              "Position": {
+                "X": 0.938607,
+                "Y": 1.63783932
+              },
+              "Rotation": 128.0426,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.74537563,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -0.302143067,
+                "Y": 0.9170951
+              },
+              "Rotation": 310.5507,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.464192,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0483922958,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.481131524,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.10775471,
+              "LinearVelocity": 0.8644394,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 71.3299942,
+              "LinearVelocity": 0.3899286,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.252558,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.260026217,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.10775471,
+              "LinearVelocity": 0.8644394,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 71.3299942,
+              "LinearVelocity": 0.3899286,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.35403538,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.158548832,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.10775471,
+              "LinearVelocity": 0.8644394,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 71.3299942,
+              "LinearVelocity": 0.3899286,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.464192,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0483922958,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.10775471,
+              "LinearVelocity": 0.8644394,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 71.3299942,
+              "LinearVelocity": 0.3899286,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Right",
+          "Target": "Left",
+          "Duration": 2.51258421,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.24342644,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 3.10775471,
+              "LinearVelocity": 0.8644394,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 71.3299942,
+              "LinearVelocity": 0.3899286,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 2.51258421,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.75657344,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 71.3299942,
+              "LinearVelocity": 0.3899286,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.10775471,
+              "LinearVelocity": 0.8644394,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.35403538,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.158548832,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 576.7379,
+              "LinearVelocity": 3.01328635,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 231.085526,
+              "LinearVelocity": 1.30183923,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.15253615,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.360048056,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 576.7379,
+              "LinearVelocity": 3.01328635,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 231.085526,
+              "LinearVelocity": 1.30183923,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Left",
+          "Target": "Right",
+          "Duration": 2.51258421,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.20676839,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 576.7379,
+              "LinearVelocity": 3.01328635,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 231.085526,
+              "LinearVelocity": 1.30183923,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 2.51258421,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 2.51258421,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.79323173,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 231.085526,
+              "LinearVelocity": 1.30183923,
+              "Position": {
+                "X": 0.758396447,
+                "Y": 1.494617
+              },
+              "Rotation": 116.139282,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 576.7379,
+              "LinearVelocity": 3.01328635,
+              "Position": {
+                "X": -0.09943229,
+                "Y": 0.9917129
+              },
+              "Rotation": 310.8424,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.51258421,
+          "UpdatedAt": 3.46263266,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.950048447,
+          "Category": "Collision",
+          "State": 2,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.20676839,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.950048447,
+            "Robot": {
+              "AngularVelocity": 27.28382,
+              "LinearVelocity": 0.230073884,
+              "Position": {
+                "X": -1.12797725,
+                "Y": 0.283490121
+              },
+              "Rotation": 157.833069,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 25.41086,
+              "LinearVelocity": 0.21206966,
+              "Position": {
+                "X": 1.85285807,
+                "Y": 1.85115051
+              },
+              "Rotation": 308.9209,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 2.51258421,
+          "UpdatedAt": 3.56349874,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 1.05091453,
+          "Category": "Collision",
+          "State": 2,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.79323173,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 1.05091453,
+            "Robot": {
+              "AngularVelocity": 17.7440128,
+              "LinearVelocity": 0.155638784,
+              "Position": {
+                "X": 1.86967015,
+                "Y": 1.85662723
+              },
+              "Rotation": 310.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 19.0518723,
+              "LinearVelocity": 0.16885218,
+              "Position": {
+                "X": -1.14377689,
+                "Y": 0.272611052
+              },
+              "Rotation": 160.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.57316279,
+          "UpdatedAt": 3.57316279,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 19.0518723,
+              "LinearVelocity": 0.16885218,
+              "Position": {
+                "X": -1.14377689,
+                "Y": 0.272611052
+              },
+              "Rotation": 160.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 17.7440128,
+              "LinearVelocity": 0.155638784,
+              "Position": {
+                "X": 1.86967015,
+                "Y": 1.85662723
+              },
+              "Rotation": 310.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.57316279,
+          "UpdatedAt": 3.57316279,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 19.0518723,
+              "LinearVelocity": 0.16885218,
+              "Position": {
+                "X": -1.14377689,
+                "Y": 0.272611052
+              },
+              "Rotation": 160.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 17.7440128,
+              "LinearVelocity": 0.155638784,
+              "Position": {
+                "X": 1.86967015,
+                "Y": 1.85662723
+              },
+              "Rotation": 310.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.57316279,
+          "UpdatedAt": 3.57316279,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.8337432,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 17.7440128,
+              "LinearVelocity": 0.155638784,
+              "Position": {
+                "X": 1.86967015,
+                "Y": 1.85662723
+              },
+              "Rotation": 310.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 19.0518723,
+              "LinearVelocity": 0.16885218,
+              "Position": {
+                "X": -1.14377689,
+                "Y": 0.272611052
+              },
+              "Rotation": 160.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.67317939,
+          "UpdatedAt": 3.67317939,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 13.9822464,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -1.28029656,
+                "Y": -0.103370652
+              },
+              "Rotation": 180.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 13.0224037,
+              "LinearVelocity": 0.114223942,
+              "Position": {
+                "X": 1.88200855,
+                "Y": 1.86064672
+              },
+              "Rotation": 330.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.67317939,
+          "UpdatedAt": 3.67317939,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.7543163,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 13.0224037,
+              "LinearVelocity": 0.114223942,
+              "Position": {
+                "X": 1.88200855,
+                "Y": 1.86064672
+              },
+              "Rotation": 330.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 13.9822464,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -1.28029656,
+                "Y": -0.103370652
+              },
+              "Rotation": 180.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.77420163,
+          "UpdatedAt": 3.77420163,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 9.64593,
+              "LinearVelocity": 2.93561649,
+              "Position": {
+                "X": -1.4214263,
+                "Y": -0.4920483
+              },
+              "Rotation": 204.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 8.983764,
+              "LinearVelocity": 0.07879966,
+              "Position": {
+                "X": 1.89256227,
+                "Y": 1.86408472
+              },
+              "Rotation": 354.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.77420163,
+          "UpdatedAt": 3.77420163,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 9.64593,
+              "LinearVelocity": 2.93561649,
+              "Position": {
+                "X": -1.4214263,
+                "Y": -0.4920483
+              },
+              "Rotation": 204.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 8.983764,
+              "LinearVelocity": 0.07879966,
+              "Position": {
+                "X": 1.89256227,
+                "Y": 1.86408472
+              },
+              "Rotation": 354.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.77420163,
+          "UpdatedAt": 3.77420163,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.6521577,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 8.983764,
+              "LinearVelocity": 0.07879966,
+              "Position": {
+                "X": 1.89256227,
+                "Y": 1.86408472
+              },
+              "Rotation": 354.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 9.64593,
+              "LinearVelocity": 2.93561649,
+              "Position": {
+                "X": -1.4214263,
+                "Y": -0.4920483
+              },
+              "Rotation": 204.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.87461066,
+          "UpdatedAt": 3.87461066,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 7.07918739,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -1.2584511,
+                "Y": -0.857341349
+              },
+              "Rotation": 224.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 6.593222,
+              "LinearVelocity": 0.05783139,
+              "Position": {
+                "X": 1.89880919,
+                "Y": 1.86611962
+              },
+              "Rotation": 14.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.87461066,
+          "UpdatedAt": 3.87461066,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.579005837,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 6.593222,
+              "LinearVelocity": 0.05783139,
+              "Position": {
+                "X": 1.89880919,
+                "Y": 1.86611962
+              },
+              "Rotation": 14.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 7.07918739,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -1.2584511,
+                "Y": -0.857341349
+              },
+              "Rotation": 224.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.97756076,
+          "UpdatedAt": 3.97756076,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.19544458,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": -1.11389434,
+                "Y": -1.18135142
+              },
+              "Rotation": 244.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 34.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.97756076,
+          "UpdatedAt": 3.97756076,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.19544458,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": -1.11389434,
+                "Y": -1.18135142
+              },
+              "Rotation": 244.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 34.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 3.97756076,
+          "UpdatedAt": 3.97756076,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.5016496,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 34.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.19544458,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": -1.11389434,
+                "Y": -1.18135142
+              },
+              "Rotation": 244.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.078269,
+          "UpdatedAt": 4.078269,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.81295776,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -0.7542423,
+                "Y": -1.356424
+              },
+              "Rotation": 264.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 54.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.078269,
+          "UpdatedAt": 4.078269,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.4276675,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 54.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.81295776,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -0.7542423,
+                "Y": -1.356424
+              },
+              "Rotation": 264.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.178357,
+          "UpdatedAt": 4.178357,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 2.798345,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -0.435235828,
+                "Y": -1.51171112
+              },
+              "Rotation": 284.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 74.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.178357,
+          "UpdatedAt": 4.178357,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 2.798345,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -0.435235828,
+                "Y": -1.51171112
+              },
+              "Rotation": 284.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 74.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.178357,
+          "UpdatedAt": 4.178357,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.351750076,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 74.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 2.798345,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": -0.435235828,
+                "Y": -1.51171112
+              },
+              "Rotation": 284.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.279421,
+          "UpdatedAt": 4.279421,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.12625581,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 2.05371714,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -0.0471920073,
+                "Y": -1.414645
+              },
+              "Rotation": 304.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 94.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.279421,
+          "UpdatedAt": 4.279421,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.27157554,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 94.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 2.05371714,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": -0.0471920073,
+                "Y": -1.414645
+              },
+              "Rotation": 304.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.379969,
+          "UpdatedAt": 4.379969,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.50723171,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 0.296997666,
+                "Y": -1.32854843
+              },
+              "Rotation": 324.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 114.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.379969,
+          "UpdatedAt": 4.379969,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.50723171,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 0.296997666,
+                "Y": -1.32854843
+              },
+              "Rotation": 324.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 114.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.379969,
+          "UpdatedAt": 4.379969,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.191778913,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 114.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.50723171,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 0.296997666,
+                "Y": -1.32854843
+              },
+              "Rotation": 324.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.480732,
+          "UpdatedAt": 4.480732,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.10616362,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.5318635,
+                "Y": -1.0047617
+              },
+              "Rotation": 344.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 134.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.480732,
+          "UpdatedAt": 4.480732,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 134.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.10616362,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.5318635,
+                "Y": -1.0047617
+              },
+              "Rotation": 344.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.58213663,
+          "UpdatedAt": 4.58213663,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.8118181,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 0.740186334,
+                "Y": -0.717567
+              },
+              "Rotation": 324.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 154.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.58213663,
+          "UpdatedAt": 4.58213663,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.8118181,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 0.740186334,
+                "Y": -0.717567
+              },
+              "Rotation": 324.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 154.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.58213663,
+          "UpdatedAt": 4.58213663,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.872621953,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 154.97998,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.8118181,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 0.740186334,
+                "Y": -0.717567
+              },
+              "Rotation": 324.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.58213663,
+          "UpdatedAt": 4.58213663,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.47622538,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.90172815,
+                "Y": 1.86707044
+              },
+              "Rotation": 154.97998,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.8118181,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 0.740186334,
+                "Y": -0.717567
+              },
+              "Rotation": 324.043945,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.68328333,
+          "UpdatedAt": 4.68328333,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.5957967,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.9750522,
+                "Y": -0.393780172
+              },
+              "Rotation": 344.043945,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 4.06804562,
+              "LinearVelocity": 7.00000048,
+              "Position": {
+                "X": 1.60567367,
+                "Y": 1.232759
+              },
+              "Rotation": 155.452087,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.68328333,
+          "UpdatedAt": 4.68328333,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 4.06804562,
+              "LinearVelocity": 7.00000048,
+              "Position": {
+                "X": 1.60567367,
+                "Y": 1.232759
+              },
+              "Rotation": 155.452087,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.5957967,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.9750522,
+                "Y": -0.393780172
+              },
+              "Rotation": 344.043945,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.58213663,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.150697708,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.872621953,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.3788538,
+              "LinearVelocity": 0.743710756,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": -78.0319443,
+              "LinearVelocity": 0.3625429,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.58213663,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.150697708,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.3788538,
+              "LinearVelocity": 0.743710756,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": -78.0319443,
+              "LinearVelocity": 0.3625429,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.68328333,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.04955101,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.3788538,
+              "LinearVelocity": 0.743710756,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": -78.0319443,
+              "LinearVelocity": 0.3625429,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Right",
+          "Target": "Left",
+          "Duration": 4.73283434,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.31088531,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 3.3788538,
+              "LinearVelocity": 0.743710756,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": -78.0319443,
+              "LinearVelocity": 0.3625429,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 4.73283434,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.68911481,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": -78.0319443,
+              "LinearVelocity": 0.3625429,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.3788538,
+              "LinearVelocity": 0.743710756,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.58213663,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.150697708,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 415.0076,
+              "LinearVelocity": 2.72457576,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 243.725,
+              "LinearVelocity": 1.49804938,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.68328333,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.04955101,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 415.0076,
+              "LinearVelocity": 2.72457576,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 243.725,
+              "LinearVelocity": 1.49804938,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.58213663,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.150697708,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 415.0076,
+              "LinearVelocity": 2.72457576,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 243.725,
+              "LinearVelocity": 1.49804938,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.480732,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.252102375,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 415.0076,
+              "LinearVelocity": 2.72457576,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 243.725,
+              "LinearVelocity": 1.49804938,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Left",
+          "Target": "Right",
+          "Duration": 4.73283434,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.41906917,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 415.0076,
+              "LinearVelocity": 2.72457576,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 243.725,
+              "LinearVelocity": 1.49804938,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 4.73283434,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 4.73283434,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.58093071,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 243.725,
+              "LinearVelocity": 1.49804938,
+              "Position": {
+                "X": 1.44239891,
+                "Y": 0.8933417
+              },
+              "Rotation": 167.017334,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 415.0076,
+              "LinearVelocity": 2.72457576,
+              "Position": {
+                "X": 1.07615221,
+                "Y": -0.0311315171
+              },
+              "Rotation": 343.6305,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.73283434,
+          "UpdatedAt": 5.68419552,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.9513612,
+          "Category": "Collision",
+          "State": 2,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.41906917,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.9513612,
+            "Robot": {
+              "AngularVelocity": 23.085043,
+              "LinearVelocity": 0.225694835,
+              "Position": {
+                "X": 0.526891232,
+                "Y": -1.1261189
+              },
+              "Rotation": 158.767029,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 24.5121479,
+              "LinearVelocity": 0.215686679,
+              "Position": {
+                "X": 1.66108334,
+                "Y": 2.04343772
+              },
+              "Rotation": 352.9806,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 4.73283434,
+          "UpdatedAt": 5.78311968,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 1.05028534,
+          "Category": "Collision",
+          "State": 2,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.58093071,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 1.05028534,
+            "Robot": {
+              "AngularVelocity": 17.1164551,
+              "LinearVelocity": 0.158293337,
+              "Position": {
+                "X": 1.66444254,
+                "Y": 2.06110454
+              },
+              "Rotation": 354.9668,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 16.1199284,
+              "LinearVelocity": 0.165638372,
+              "Position": {
+                "X": 0.518453956,
+                "Y": -1.14293909
+              },
+              "Rotation": 160.6377,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 5.80548429,
+          "UpdatedAt": 5.80548429,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 15.0027056,
+              "LinearVelocity": 0.155700073,
+              "Position": {
+                "X": 0.5170577,
+                "Y": -1.14572251
+              },
+              "Rotation": 160.937683,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 15.9301662,
+              "LinearVelocity": 0.148795739,
+              "Position": {
+                "X": 1.66499841,
+                "Y": 2.064028
+              },
+              "Rotation": 355.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 5.80548429,
+          "UpdatedAt": 5.80548429,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 15.0027056,
+              "LinearVelocity": 0.155700073,
+              "Position": {
+                "X": 0.5170577,
+                "Y": -1.14572251
+              },
+              "Rotation": 160.937683,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 15.9301662,
+              "LinearVelocity": 0.148795739,
+              "Position": {
+                "X": 1.66499841,
+                "Y": 2.064028
+              },
+              "Rotation": 355.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 5.80548429,
+          "UpdatedAt": 5.80548429,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.825177848,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 15.9301662,
+              "LinearVelocity": 0.148795739,
+              "Position": {
+                "X": 1.66499841,
+                "Y": 2.064028
+              },
+              "Rotation": 355.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 15.0027056,
+              "LinearVelocity": 0.155700073,
+              "Position": {
+                "X": 0.5170577,
+                "Y": -1.14572251
+              },
+              "Rotation": 160.937683,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 5.90725374,
+          "UpdatedAt": 5.90725374,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 11.0105467,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.386419237,
+                "Y": -1.52378821
+              },
+              "Rotation": 180.937683,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 11.6912146,
+              "LinearVelocity": 0.109201811,
+              "Position": {
+                "X": 1.66731572,
+                "Y": 2.07621574
+              },
+              "Rotation": 15.2852783,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 5.90725374,
+          "UpdatedAt": 5.90725374,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.725644767,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 11.6912146,
+              "LinearVelocity": 0.109201811,
+              "Position": {
+                "X": 1.66731572,
+                "Y": 2.07621574
+              },
+              "Rotation": 15.2852783,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 11.0105467,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.386419237,
+                "Y": -1.52378821
+              },
+              "Rotation": 180.937683,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.007409,
+          "UpdatedAt": 6.007409,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 8.080687,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 0.270544678,
+                "Y": -1.85912716
+              },
+              "Rotation": 200.937683,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 8.58023,
+              "LinearVelocity": 0.08014367,
+              "Position": {
+                "X": 1.6690166,
+                "Y": 2.08516049
+              },
+              "Rotation": 35.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.007409,
+          "UpdatedAt": 6.007409,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 8.080687,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 0.270544678,
+                "Y": -1.85912716
+              },
+              "Rotation": 200.937683,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 8.58023,
+              "LinearVelocity": 0.08014367,
+              "Position": {
+                "X": 1.6690166,
+                "Y": 2.08516049
+              },
+              "Rotation": 35.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.007409,
+          "UpdatedAt": 6.007409,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.6259622,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 8.58023,
+              "LinearVelocity": 0.08014367,
+              "Position": {
+                "X": 1.6690166,
+                "Y": 2.08516049
+              },
+              "Rotation": 35.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 8.080687,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 0.270544678,
+                "Y": -1.85912716
+              },
+              "Rotation": 200.937683,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.10830975,
+          "UpdatedAt": 6.10830975,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.930449,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.413485557,
+                "Y": -2.232715
+              },
+              "Rotation": 220.937561,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 6.29706573,
+              "LinearVelocity": 0.0588177666,
+              "Position": {
+                "X": 1.67026472,
+                "Y": 2.091725
+              },
+              "Rotation": 55.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.10830975,
+          "UpdatedAt": 6.10830975,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.542548358,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 6.29706573,
+              "LinearVelocity": 0.0588177666,
+              "Position": {
+                "X": 1.67026472,
+                "Y": 2.091725
+              },
+              "Rotation": 55.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.930449,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.413485557,
+                "Y": -2.232715
+              },
+              "Rotation": 220.937561,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.20975971,
+          "UpdatedAt": 6.20975971,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 4.35238028,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 0.540272236,
+                "Y": -2.56408215
+              },
+              "Rotation": 240.937439,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 75.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.20975971,
+          "UpdatedAt": 6.20975971,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 4.35238028,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 0.540272236,
+                "Y": -2.56408215
+              },
+              "Rotation": 240.937439,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 75.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.20975971,
+          "UpdatedAt": 6.20975971,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.455371767,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 75.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 4.35238028,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 0.540272236,
+                "Y": -2.56408215
+              },
+              "Rotation": 240.937439,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.31136,
+          "UpdatedAt": 6.31136,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.19423,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.889908,
+                "Y": -2.75838733
+              },
+              "Rotation": 260.937378,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 95.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.31136,
+          "UpdatedAt": 6.31136,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.377867252,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 95.28528,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.19423,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.889908,
+                "Y": -2.75838733
+              },
+              "Rotation": 260.937378,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.411574,
+          "UpdatedAt": 6.411574,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 2.34425879,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 1.20003033,
+                "Y": -2.93073368
+              },
+              "Rotation": 280.937378,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 115.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.411574,
+          "UpdatedAt": 6.411574,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 2.34425879,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 1.20003033,
+                "Y": -2.93073368
+              },
+              "Rotation": 280.937378,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 115.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.411574,
+          "UpdatedAt": 6.411574,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.2968129,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 115.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 2.34425879,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 1.20003033,
+                "Y": -2.93073368
+              },
+              "Rotation": 280.937378,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.511954,
+          "UpdatedAt": 6.511954,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.720461,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 1.59276414,
+                "Y": -2.854839
+              },
+              "Rotation": 300.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 135.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.511954,
+          "UpdatedAt": 6.511954,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.219054565,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 135.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.720461,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 1.59276414,
+                "Y": -2.854839
+              },
+              "Rotation": 300.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.61309052,
+          "UpdatedAt": 6.61309052,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.26265335,
+              "LinearVelocity": 3.12299585,
+              "Position": {
+                "X": 1.94111371,
+                "Y": -2.78752184
+              },
+              "Rotation": 320.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 155.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.61309052,
+          "UpdatedAt": 6.61309052,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.26265335,
+              "LinearVelocity": 3.12299585,
+              "Position": {
+                "X": 1.94111371,
+                "Y": -2.78752184
+              },
+              "Rotation": 320.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 155.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.61309052,
+          "UpdatedAt": 6.61309052,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.139415786,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 155.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.26265335,
+              "LinearVelocity": 3.12299585,
+              "Position": {
+                "X": 1.94111371,
+                "Y": -2.78752184
+              },
+              "Rotation": 320.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.713313,
+          "UpdatedAt": 6.713313,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.127903461,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.9266665,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.193182,
+                "Y": -2.47694
+              },
+              "Rotation": 340.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 175.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.713313,
+          "UpdatedAt": 6.713313,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 175.285278,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.9266665,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.193182,
+                "Y": -2.47694
+              },
+              "Rotation": 340.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.713313,
+          "UpdatedAt": 6.713313,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.23024225,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 1.670848,
+                "Y": 2.09479237
+              },
+              "Rotation": 175.285278,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.9266665,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.193182,
+                "Y": -2.47694
+              },
+              "Rotation": 340.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.81445646,
+          "UpdatedAt": 6.81445646,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.6392793,
+              "LinearVelocity": 2.93561649,
+              "Position": {
+                "X": 2.453762,
+                "Y": -2.1558702
+              },
+              "Rotation": 4.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.800491,
+              "LinearVelocity": 6.99999952,
+              "Position": {
+                "X": 1.60180438,
+                "Y": 1.25763488
+              },
+              "Rotation": 195.361328,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.81445646,
+          "UpdatedAt": 6.81445646,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.6392793,
+              "LinearVelocity": 2.93561649,
+              "Position": {
+                "X": 2.453762,
+                "Y": -2.1558702
+              },
+              "Rotation": 4.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.800491,
+              "LinearVelocity": 6.99999952,
+              "Position": {
+                "X": 1.60180438,
+                "Y": 1.25763488
+              },
+              "Rotation": 195.361328,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.81445646,
+          "UpdatedAt": 6.81445646,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.800491,
+              "LinearVelocity": 6.99999952,
+              "Position": {
+                "X": 1.60180438,
+                "Y": 1.25763488
+              },
+              "Rotation": 195.361328,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.6392793,
+              "LinearVelocity": 2.93561649,
+              "Position": {
+                "X": 2.453762,
+                "Y": -2.1558702
+              },
+              "Rotation": 4.937256,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.914868,
+          "UpdatedAt": 6.914868,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 2.4193356,
+                "Y": -1.75735474
+              },
+              "Rotation": 24.9372559,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 2.789196,
+              "LinearVelocity": 6.99999952,
+              "Position": {
+                "X": 1.544268,
+                "Y": 0.560003638
+              },
+              "Rotation": 175.361328,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 7.017426,
+          "UpdatedAt": 7.017426,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 2.04700255,
+              "LinearVelocity": 5.137328,
+              "Position": {
+                "X": 1.49629617,
+                "Y": -0.0216584429
+              },
+              "Rotation": 195.361328,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 7.0,
+              "Position": {
+                "X": 2.12419724,
+                "Y": -1.12261593
+              },
+              "Rotation": 24.9372559,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.713313,
+          "UpdatedAt": 7.053266,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.339952946,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.80873144,
+              "LinearVelocity": 3.012579,
+              "Position": {
+                "X": 1.441933,
+                "Y": -0.142624155
+              },
+              "Rotation": 204.591064,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 89.23992,
+              "LinearVelocity": 1.87251639,
+              "Position": {
+                "X": 2.04510427,
+                "Y": -0.9344894
+              },
+              "Rotation": 26.1671143,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 7.017426,
+          "UpdatedAt": 7.053266,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0358400345,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.80873144,
+              "LinearVelocity": 3.012579,
+              "Position": {
+                "X": 1.441933,
+                "Y": -0.142624155
+              },
+              "Rotation": 204.591064,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 89.23992,
+              "LinearVelocity": 1.87251639,
+              "Position": {
+                "X": 2.04510427,
+                "Y": -0.9344894
+              },
+              "Rotation": 26.1671143,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.81445646,
+          "UpdatedAt": 7.053266,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.238809586,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.80873144,
+              "LinearVelocity": 3.012579,
+              "Position": {
+                "X": 1.441933,
+                "Y": -0.142624155
+              },
+              "Rotation": 204.591064,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 89.23992,
+              "LinearVelocity": 1.87251639,
+              "Position": {
+                "X": 2.04510427,
+                "Y": -0.9344894
+              },
+              "Rotation": 26.1671143,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 7.053266,
+          "Actor": "Right",
+          "Target": "Left",
+          "Duration": 7.053266,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.53324854,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 1.80873144,
+              "LinearVelocity": 3.012579,
+              "Position": {
+                "X": 1.441933,
+                "Y": -0.142624155
+              },
+              "Rotation": 204.591064,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 89.23992,
+              "LinearVelocity": 1.87251639,
+              "Position": {
+                "X": 2.04510427,
+                "Y": -0.9344894
+              },
+              "Rotation": 26.1671143,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 7.053266,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 7.053266,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.46675134,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 89.23992,
+              "LinearVelocity": 1.87251639,
+              "Position": {
+                "X": 2.04510427,
+                "Y": -0.9344894
+              },
+              "Rotation": 26.1671143,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.80873144,
+              "LinearVelocity": 3.012579,
+              "Position": {
+                "X": 1.441933,
+                "Y": -0.142624155
+              },
+              "Rotation": 204.591064,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.81445646,
+          "UpdatedAt": 7.053266,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.238809586,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 541.5099,
+              "LinearVelocity": 1.188387,
+              "Position": {
+                "X": 2.04510427,
+                "Y": -0.9344894
+              },
+              "Rotation": 26.1671143,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 282.924347,
+              "LinearVelocity": 4.11923933,
+              "Position": {
+                "X": 1.441933,
+                "Y": -0.142624155
+              },
+              "Rotation": 204.591064,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.914868,
+          "UpdatedAt": 7.053266,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.13839817,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 541.5099,
+              "LinearVelocity": 1.188387,
+              "Position": {
+                "X": 2.04510427,
+                "Y": -0.9344894
+              },
+              "Rotation": 26.1671143,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 282.924347,
+              "LinearVelocity": 4.11923933,
+              "Position": {
+                "X": 1.441933,
+                "Y": -0.142624155
+              },
+              "Rotation": 204.591064,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 6.81445646,
+          "UpdatedAt": 7.053266,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.238809586,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 541.5099,
+              "LinearVelocity": 1.188387,
+              "Position": {
+                "X": 2.04510427,
+                "Y": -0.9344894
+              },
+              "Rotation": 26.1671143,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 282.924347,
+              "LinearVelocity": 4.11923933,
+              "Position": {
+                "X": 1.441933,
+                "Y": -0.142624155
+              },
+              "Rotation": 204.591064,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 7.053266,
+          "UpdatedAt": 8.004293,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.9510274,
+          "Category": "Collision",
+          "State": 2,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.53324854,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.9510274,
+            "Robot": {
+              "AngularVelocity": 9.673329,
+              "LinearVelocity": 0.224815652,
+              "Position": {
+                "X": 0.274316132,
+                "Y": 0.211899176
+              },
+              "Rotation": 277.9784,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 18.5144787,
+              "LinearVelocity": 0.0648585856,
+              "Position": {
+                "X": 2.39546251,
+                "Y": -0.9688455
+              },
+              "Rotation": 166.628784,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.028624,
+          "UpdatedAt": 8.028624,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1861437,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 9.002901,
+              "LinearVelocity": 0.211326718,
+              "Position": {
+                "X": 0.2702719,
+                "Y": 0.213127121
+              },
+              "Rotation": 278.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 17.2312965,
+              "LinearVelocity": 0.06096707,
+              "Position": {
+                "X": 2.396676,
+                "Y": -0.968964458
+              },
+              "Rotation": 166.973389,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 7.053266,
+          "UpdatedAt": 8.103371,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 1.05010462,
+          "Category": "Collision",
+          "State": 2,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.46675134,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 1.05010462,
+            "Robot": {
+              "AngularVelocity": 12.9283724,
+              "LinearVelocity": 0.0475999825,
+              "Position": {
+                "X": 2.40084434,
+                "Y": -0.9693732
+              },
+              "Rotation": 168.12915,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 7.02900648,
+              "LinearVelocity": 0.164993137,
+              "Position": {
+                "X": 0.25638026,
+                "Y": 0.217345029
+              },
+              "Rotation": 262.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.12871552,
+          "UpdatedAt": 8.12871552,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 12.8003693,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 2.40084434,
+                "Y": -0.9693732
+              },
+              "Rotation": 168.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 6.60726643,
+              "LinearVelocity": 0.155093551,
+              "Position": {
+                "X": 0.2534122,
+                "Y": 0.218246222
+              },
+              "Rotation": 258.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.12871552,
+          "UpdatedAt": 8.12871552,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 12.8003693,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 2.40084434,
+                "Y": -0.9693732
+              },
+              "Rotation": 168.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 6.60726643,
+              "LinearVelocity": 0.155093551,
+              "Position": {
+                "X": 0.2534122,
+                "Y": 0.218246222
+              },
+              "Rotation": 258.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.12871552,
+          "UpdatedAt": 8.12871552,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 6.60726643,
+              "LinearVelocity": 0.155093551,
+              "Position": {
+                "X": 0.2534122,
+                "Y": 0.218246222
+              },
+              "Rotation": 258.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 12.8003693,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 2.40084434,
+                "Y": -0.9693732
+              },
+              "Rotation": 168.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.229892,
+          "UpdatedAt": 8.229892,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 9.9938755,
+              "LinearVelocity": 3.99999976,
+              "Position": {
+                "X": 2.32031131,
+                "Y": -1.36118257
+              },
+              "Rotation": 148.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 4.8491,
+              "LinearVelocity": 0.113823794,
+              "Position": {
+                "X": 0.241038784,
+                "Y": 0.222003147
+              },
+              "Rotation": 238.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.229892,
+          "UpdatedAt": 8.229892,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 4.8491,
+              "LinearVelocity": 0.113823794,
+              "Position": {
+                "X": 0.241038784,
+                "Y": 0.222003147
+              },
+              "Rotation": 238.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 9.9938755,
+              "LinearVelocity": 3.99999976,
+              "Position": {
+                "X": 2.32031131,
+                "Y": -1.36118257
+              },
+              "Rotation": 148.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.229892,
+          "UpdatedAt": 8.229892,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.483505934,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 4.8491,
+              "LinearVelocity": 0.113823794,
+              "Position": {
+                "X": 0.241038784,
+                "Y": 0.222003147
+              },
+              "Rotation": 238.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 9.9938755,
+              "LinearVelocity": 3.99999976,
+              "Position": {
+                "X": 2.32031131,
+                "Y": -1.36118257
+              },
+              "Rotation": 148.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.331217,
+          "UpdatedAt": 8.331217,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 7.33454752,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 2.24888,
+                "Y": -1.7087121
+              },
+              "Rotation": 128.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.55877471,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.5808431,
+                "Y": 0.0109749213
+              },
+              "Rotation": 218.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.331217,
+          "UpdatedAt": 8.331217,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 7.33454752,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 2.24888,
+                "Y": -1.7087121
+              },
+              "Rotation": 128.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.55877471,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.5808431,
+                "Y": 0.0109749213
+              },
+              "Rotation": 218.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.331217,
+          "UpdatedAt": 8.331217,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.55877471,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.5808431,
+                "Y": 0.0109749213
+              },
+              "Rotation": 218.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 7.33454752,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 2.24888,
+                "Y": -1.7087121
+              },
+              "Rotation": 128.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.331217,
+          "UpdatedAt": 8.331217,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.6599725,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.55877471,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.5808431,
+                "Y": 0.0109749213
+              },
+              "Rotation": 218.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 7.33454752,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 2.24888,
+                "Y": -1.7087121
+              },
+              "Rotation": 128.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.331217,
+          "UpdatedAt": 8.331217,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 0,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.55877471,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 0.5808431,
+                "Y": 0.0109749213
+              },
+              "Rotation": 218.158569,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 7.33454752,
+              "LinearVelocity": 3.122996,
+              "Position": {
+                "X": 2.24888,
+                "Y": -1.7087121
+              },
+              "Rotation": 128.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.432485,
+          "UpdatedAt": 8.432485,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 5.382855,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 1.935338,
+                "Y": -1.95709
+              },
+              "Rotation": 108.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 2.61179924,
+              "LinearVelocity": 7.00000048,
+              "Position": {
+                "X": 1.01333058,
+                "Y": -0.5394378
+              },
+              "Rotation": 238.158569,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.432485,
+          "UpdatedAt": 8.432485,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.125597671,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 2.61179924,
+              "LinearVelocity": 7.00000048,
+              "Position": {
+                "X": 1.01333058,
+                "Y": -0.5394378
+              },
+              "Rotation": 238.158569,
+              "IsDashActive": true,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 5.382855,
+              "LinearVelocity": 4.0,
+              "Position": {
+                "X": 1.935338,
+                "Y": -1.95709
+              },
+              "Rotation": 108.385132,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.532574,
+          "UpdatedAt": 8.532574,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.95049953,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 1.65723062,
+                "Y": -2.17739773
+              },
+              "Rotation": 88.38513,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.91681,
+              "LinearVelocity": 7.00000048,
+              "Position": {
+                "X": 1.44581831,
+                "Y": -1.08985054
+              },
+              "Rotation": 218.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.532574,
+          "UpdatedAt": 8.532574,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 3.95049953,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 1.65723062,
+                "Y": -2.17739773
+              },
+              "Rotation": 88.38513,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.91681,
+              "LinearVelocity": 7.00000048,
+              "Position": {
+                "X": 1.44581831,
+                "Y": -1.08985054
+              },
+              "Rotation": 218.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.532574,
+          "UpdatedAt": 8.532574,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 1,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.135789141,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.91681,
+              "LinearVelocity": 7.00000048,
+              "Position": {
+                "X": 1.44581831,
+                "Y": -1.08985054
+              },
+              "Rotation": 218.158569,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.95049953,
+              "LinearVelocity": 3.12299633,
+              "Position": {
+                "X": 1.65723062,
+                "Y": -2.17739773
+              },
+              "Rotation": 88.38513,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.331217,
+          "UpdatedAt": 8.532574,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.201356888,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.6599725,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.80180132,
+              "LinearVelocity": 4.22242737,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.71346974,
+              "LinearVelocity": 4.208332,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.331217,
+          "UpdatedAt": 8.532574,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.201356888,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Dash",
+            "Duration": 0.2,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.80180132,
+              "LinearVelocity": 4.22242737,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.71346974,
+              "LinearVelocity": 4.208332,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.331217,
+          "UpdatedAt": 8.532574,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.201356888,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnLeft",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.80180132,
+              "LinearVelocity": 4.22242737,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.71346974,
+              "LinearVelocity": 4.208332,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.532574,
+          "UpdatedAt": 8.532574,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.135789141,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 1.80180132,
+              "LinearVelocity": 4.22242737,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.71346974,
+              "LinearVelocity": 4.208332,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 8.532574,
+          "Actor": "Right",
+          "Target": "Left",
+          "Duration": 8.532574,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.99665618,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 1.80180132,
+              "LinearVelocity": 4.22242737,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 3.71346974,
+              "LinearVelocity": 4.208332,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 8.532574,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 8.532574,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.00334382,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 3.71346974,
+              "LinearVelocity": 4.208332,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 1.80180132,
+              "LinearVelocity": 4.22242737,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.532574,
+          "UpdatedAt": 8.532574,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "Accelerate",
+            "Duration": 0.1,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 371.019379,
+              "LinearVelocity": 5.714625,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 367.881561,
+              "LinearVelocity": 3.33842874,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.532574,
+          "UpdatedAt": 8.532574,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "Action",
+          "State": 2,
+          "Data": {
+            "Name": "TurnRight",
+            "Duration": 0.15,
+            "Reason": null,
+            "Robot": {
+              "AngularVelocity": 371.019379,
+              "LinearVelocity": 5.714625,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 367.881561,
+              "LinearVelocity": 3.33842874,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 8.532574,
+          "Actor": "Left",
+          "Target": "Right",
+          "Duration": 8.532574,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": true,
+            "Impact": 1.47505093,
+            "IsTieBreaker": false,
+            "LockDuration": 0.95,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 371.019379,
+              "LinearVelocity": 5.714625,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 367.881561,
+              "LinearVelocity": 3.33842874,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 8.532574,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 8.532574,
+          "Category": "Collision",
+          "State": 0,
+          "Data": {
+            "IsActor": false,
+            "Impact": 2.524949,
+            "IsTieBreaker": false,
+            "LockDuration": 1.05,
+            "Duration": 0.0,
+            "Robot": {
+              "AngularVelocity": 367.881561,
+              "LinearVelocity": 3.33842874,
+              "Position": {
+                "X": 1.53076458,
+                "Y": -1.19068229
+              },
+              "Rotation": 213.925781,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            },
+            "EnemyRobot": {
+              "AngularVelocity": 371.019379,
+              "LinearVelocity": 5.714625,
+              "Position": {
+                "X": 1.57881367,
+                "Y": -2.184394
+              },
+              "Rotation": 84.15234,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.773549,
+          "UpdatedAt": 8.773549,
+          "Actor": "Left",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "LastPosition",
+          "State": 0,
+          "Data": {
+            "Robot": {
+              "AngularVelocity": 0.0,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 0.676531434,
+                "Y": -4.161425
+              },
+              "Rotation": 256.877563,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        },
+        {
+          "StartedAt": 8.773549,
+          "UpdatedAt": 8.773549,
+          "Actor": "Right",
+          "Target": "",
+          "Duration": 0.0,
+          "Category": "LastPosition",
+          "State": 0,
+          "Data": {
+            "Robot": {
+              "AngularVelocity": 2.179698,
+              "LinearVelocity": 0.0,
+              "Position": {
+                "X": 2.512901,
+                "Y": -0.5706255
+              },
+              "Rotation": 82.12915,
+              "IsDashActive": false,
+              "IsSkillActive": false,
+              "IsOutFromArena": false
+            }
+          }
+        }
+      ],
+      "StateEvents": [
+        {
+          "StartedAt": 8.474529,
+          "UpdatedAt": 0.0,
+          "Actor": "System",
+          "Target": null,
+          "Duration": 0.0,
+          "Category": null,
+          "State": 0,
+          "Data": {
+            "type": "battle_state",
+            "battle_state": "Battle_Countdown"
+          }
+        },
+        {
+          "StartedAt": 0.0,
+          "UpdatedAt": 0.0,
+          "Actor": "System",
+          "Target": null,
+          "Duration": 0.0,
+          "Category": null,
+          "State": 0,
+          "Data": {
+            "type": "battle_state",
+            "battle_state": "Battle_Ongoing"
+          }
+        },
+        {
+          "StartedAt": 8.773549,
+          "UpdatedAt": 0.0,
+          "Actor": "System",
+          "Target": null,
+          "Duration": 0.0,
+          "Category": null,
+          "State": 0,
+          "Data": {
+            "type": "battle_state",
+            "battle_state": "Battle_End"
+          }
+        },
+        {
+          "StartedAt": 8.773549,
+          "UpdatedAt": 0.0,
+          "Actor": "System",
+          "Target": null,
+          "Duration": 0.0,
+          "Category": null,
+          "State": 0,
+          "Data": {
+            "type": "battle_state",
+            "battle_state": "Battle_Reset"
+          }
+        },
+        {
+          "StartedAt": 8.773549,
+          "UpdatedAt": 0.0,
+          "Actor": "System",
+          "Target": null,
+          "Duration": 0.0,
+          "Category": null,
+          "State": 0,
+          "Data": {
+            "type": "battle_state",
+            "battle_state": "PostBattle_ShowResult"
+          }
+        }
+      ]
+    }
+  ]
+}
