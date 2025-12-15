@@ -2,11 +2,13 @@ import os
 import sys
 import time
 from langchain_community.utilities import SQLDatabase
-from langchain_community.llms import Ollama
+#from langchain_community.llms import Ollama
+from langchain_ollama import OllamaLLM
 
 # Configuration
 DB_FILE = 'sumobot.db'
-MODEL_NAME = "llama3" 
+MODEL_NAME = "gemma3:4b" #"qwen2.5-coder:7b" #"deepseek-coder:6.7b" #"duckdb-nsql:7b" #"sqlcoder:7b" #"llama3" 
+# Removed: #"qwen2.5-coder:3b"  
 
 def get_engine():
     """
@@ -20,7 +22,7 @@ def get_engine():
     
     print(f"Connecting to local LLM via Ollama (model: {MODEL_NAME})...")
     try:
-        llm = Ollama(model=MODEL_NAME, temperature=0)
+        llm = OllamaLLM(model=MODEL_NAME, temperature=0)
     except Exception as e:
         print(f"Error connecting to Ollama: {e}")
         raise
@@ -81,14 +83,14 @@ def run_query_pipeline(db, llm, question):
         
     # 4. Generate Natural Answer
     answer_prompt = f"""You are a helpful data assistant.
-    Based on the user's question, the SQL query used, and the raw result, write a natural language answer.
-    Do not repeat the SQL query. Just give the answer in a clear sentence.
-    
-    Question: {question}
-    SQL Query: {sql_query}
-    Raw Result: {result}
-    
-    Answer (in a natural, conversational sentence):"""
+        Based on the user's question, the SQL query used, and the raw result, write a natural language answer.
+        Do not repeat the SQL query. Just give the answer in a clear sentence.
+        
+        Question: {question}
+        SQL Query: {sql_query}
+        Raw Result: {result}
+        
+        Answer (in a natural, conversational sentence):"""
     
     print("Formulating answer...")
     t3_start = time.time()
