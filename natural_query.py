@@ -22,7 +22,8 @@ def get_engine():
     
     print(f"Connecting to local LLM via Ollama (model: {MODEL_NAME})...")
     try:
-        llm = OllamaLLM(model=MODEL_NAME, temperature=0)
+        # Use 127.0.0.1 to avoid localhost resolution issues on Windows
+        llm = OllamaLLM(model=MODEL_NAME, temperature=0, base_url="http://127.0.0.1:11434")
     except Exception as e:
         print(f"Error connecting to Ollama: {e}")
         raise
@@ -68,7 +69,7 @@ def run_query_pipeline(db, llm, question):
     sql_query = sql_query.strip()
         
     print(f">> Generated SQL: {sql_query}")
-    print(f"   (SQL Gen Time: {(t1_end - t1_start)*1000:.2f} ms)")
+    print(f"   (SQL Gen Time: {(t1_end - t1_start)*1000:.4f} ms)")
     
     # 3. Execute SQL
     try:
